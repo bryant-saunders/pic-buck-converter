@@ -1,0 +1,23 @@
+Name,Designator,Footprint,Quantity,Manufacturer,Notes
+220uF,"C3,C7",CAP-D10.0×F5.0,2,Various,Low ESR aluminium electrolytic cap
+Header,SNAP,HDR-F-2.54_1X5,1,Various,Female row headers for the SNAP programmer
+FQP30N06L,Q1,TO-220AB-3_L10.3-W5.0-P2.54-L,1,ON Semi,
+IRF9540,U3,IRF9540,1,IRF,
+PIC16F1619 DIP,U1,PIC16F1619 DIP,1,Microchip,
+USB-TYPE_A_FEMALE,U4,USB-TYPE_A_FEMALE-PORT,1,Various,Common footprint. Example part #CU01SAH0S00
+LED-TH-3mm_G,LED1,LED-TH_BD3.0_GREEN,1,Various,Any basic 3mm LED should work that runs off a few mAs
+1K Ohm,R7,R_AXIAL-0.5,1,Various,Basic 1/8 or 1/4W should be fine
+200 Ohm,R3,R_AXIAL-0.5,1,Various,Basic 1/4W should be fine
+680uF,C6,CAP-D10.0×F5.0,1,Various,Low ESR aluminium electrolytic caps
+1415440C(150uH),L1,1415440C,1,Murata Power Solutions Inc.,
+1V switch,P3,CONN-TH_2P-P5.08,1,Various,5mm spacing allows a choice of button or screw terminal block
+100mV switch,P4,CONN-TH_2P-P5.08,1,Various,5mm spacing allows a choice of button or screw terminal block
+330(1W),R2,R_AXIAL-0.6,1,Various,Must be 1W. This can get warm
+MIC2954(TO-220),U2,TO-220-3_L10.0-W4.5-P2.54-L,1,Micrel,Any 5V LDO regulator should work here
+10uF,"C1,C2,C8",RAD-0.1,3,Various,MLCC caps
+SB540,"D1,D2",DO-201AD_BD5.3-L8.4-P12.50-D1.4-RD,2,Various,
+Output Connector(5.08mm),P1,CONN-TH_2P-P5.08,1,Various,Screw terminal block 5.08mm
+Input Connector(5.08mm),P2,CONN-TH_2P-P5.08,1,Various,Screw terminal block 5.08mm
+330 Ohm,R1,R_AXIAL-0.5,1,Various,Basic 1/8 or 1/4W should be fine
+1.5k Ohm,"R4,R5,R6",R_AXIAL-0.5,3,Various,Basic 1/8 or 1/4W should be fine
+1k Ohm,R8,R_AXIAL-0.5,1,Various,Basic 1/8 or 1/4W should be fine
